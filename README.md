@@ -14,7 +14,7 @@ db_config = {
     'password': 'postgrespassword'
 }
 
-You will also need to create your own table
+You will also need to create your own table named "revenue"
 
 Follow the image below:
 ![alt text](tables.png)
